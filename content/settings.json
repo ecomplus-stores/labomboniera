@@ -1,7 +1,7 @@
 {
   "domain": "labomboniera.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#000000",
+  "primary_color": "#6f6f6f",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
