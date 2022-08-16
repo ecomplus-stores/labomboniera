@@ -1,5 +1,5 @@
 {
-  "css": ".top-bar {\n    background: #f7f7f7;\n    width: 100%;\n}\n.header {\n  background: #ffffff;}\n.body{font-family: 'Nobile', sans-serif;}\n.header__toggler {\n  color: #ffffff; font-size:0px;}",
+  "css": ".top-bar {\n    background: #f7f7f7;\n    width: 100%;\n}\n.header {\n  background: #ffffff;}\n.body{font-family: 'Nobile', sans-serif;}\n.header__toggler {\n  color: #ffffff; font-size:0px;}\n.footer {\n    background: #dc5b6b;\n    border-top: var(--spacer-1) solid #c74f5d;\n}\n.footer__store {\n    color: #f7d9dd;font-family: 'Nobile', sans-serif;\n    font-weight: var(--font-headings);\n}\n.footer__title[aria-expanded] {color: #f7d9dd;font-family: 'Nobile', sans-serif;}",
   "html_head": "",
   "html_body": ""
 }
