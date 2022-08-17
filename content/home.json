@@ -22,6 +22,20 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/bebe.jpg"
+        },
+        {
+          "img": "/img/uploads/celebrar.jpg"
+        },
+        {
+          "img": "/img/uploads/casamento.jpg"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     }
