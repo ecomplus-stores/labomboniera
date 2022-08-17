@@ -3,6 +3,19 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-08-17T00:00:52.044Z",
+          "end": "",
+          "img": "/img/uploads/robe-personalizado-noivas.jpg",
+          "mobile_img": "/img/uploads/robe-personalizado-noivas-mobile.jpg"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     }
