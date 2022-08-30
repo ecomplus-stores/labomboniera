@@ -2,5 +2,27 @@
   "title": "Formas de pagamento",
   "meta_title": "Formas de pagamento",
   "meta_description": "Formas de pagamento",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "<!--StartFragment-->\n\nFormas de pagamento:\n\n\\- Depósito em conta no Banco Original ou PIX no Nubank  com 10% de desconto.\n\n\\* Enviar o comprovante do depósito para o e-mail [comercial@labomboniera.com.br](mailto:comercial@labomboniera.com.br.)\n\nO prazo para pagamento é de 3 dias.\n\n\\- Boleto bancário com 10% de desconto.\n\n\\- Cartão de crédito em até 10 vezes sem juros, via PayPal (Visa, Mastercard)\n\n<!--EndFragment-->",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
+    }
+  ]
 }
