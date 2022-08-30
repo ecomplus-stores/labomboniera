@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.e31ea7085513fa4f792e7d39060ec9fc.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.35b0b024927eb22d26cafdd68cf54322.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.d2678d318cec24da2c1f81daa6102af2.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.98a14a8f5bc5fa444dc8f07ea42cd766.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.289d642f0f736f61578d86325f958313.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Labomboniera - Lembranças para Ocasiões Especiais",
+  "short_name": "Labomboniera ",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Atendemos em um ateliê com hora marcada na Bela Vista, e contamos com mais de 300 modelos de lembrancinhas para todos os tipos de eventos como noivados, casamentos, nascimentos, batizados, primeira comunhão, bodas, aniversários...\n",
+  "background_color": "#ffffff",
+  "theme_color": "#6f6f6f"
+}
