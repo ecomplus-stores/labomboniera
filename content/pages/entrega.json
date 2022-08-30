@@ -2,5 +2,18 @@
   "title": "Condições de entrega",
   "meta_title": "Condições de entrega",
   "meta_description": "Condições de entrega",
-  "body": "<!--StartFragment-->\n\nO prazo de entrega de nossos pedidos variam de acordo com o produto.\n\nEm caso de pedidos com produtos com prazos de entrega variados, o válido é o maior.\n\nNossas entregas são feitas via Correios (PAC ou SEDEX) ou podem ser retirados em nosso ateliê\n\n(atendimento com hora marcada)\n\nDurante sua compra você pode poderá escolher a opção de entrega.\n\nNão nos responsabilizamos por atrasos na entrega dos Correios.\n\n<!--EndFragment-->\n\n<!--StartFragment-->\n\nAtendimento no ateliê com hora marcada.\n\nLigue e agende sua visita!\n\n11 3287.1122\n\nWhatsApp: [11 951171267](https://api.whatsapp.com/send?1=pt_BR&phone=55011951171267)\n\n[comercial@labomboniera.com.br](mailto:comercial@labomboniera.com.br)\n\nAcompanhe nossas redes sociais:\n\n[Fanpage](https://www.facebook.com/labomboniera.cristais/)\n\n[Instagram](https://www.instagram.com/labomboniera_/)\n\n<!--EndFragment-->"
+  "body": "<!--StartFragment-->\n\nO prazo de entrega de nossos pedidos variam de acordo com o produto.\n\nEm caso de pedidos com produtos com prazos de entrega variados, o válido é o maior.\n\nNossas entregas são feitas via Correios (PAC ou SEDEX) ou podem ser retirados em nosso ateliê\n\n(atendimento com hora marcada)\n\nDurante sua compra você pode poderá escolher a opção de entrega.\n\nNão nos responsabilizamos por atrasos na entrega dos Correios.\n\n<!--EndFragment-->\n\n<!--StartFragment-->\n\nAtendimento no ateliê com hora marcada.\n\nLigue e agende sua visita!\n\n11 3287.1122\n\nWhatsApp: [11 951171267](https://api.whatsapp.com/send?1=pt_BR&phone=55011951171267)\n\n[comercial@labomboniera.com.br](mailto:comercial@labomboniera.com.br)\n\nAcompanhe nossas redes sociais:\n\n[Fanpage](https://www.facebook.com/labomboniera.cristais/)\n\n[Instagram](https://www.instagram.com/labomboniera_/)\n\n<!--EndFragment-->",
+  "sections": [
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
