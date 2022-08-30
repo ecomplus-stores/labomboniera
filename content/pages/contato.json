@@ -2,5 +2,27 @@
   "title": "Contato",
   "meta_title": "Contato",
   "meta_description": "Contato",
-  "body": "<center> <a href=\"mailto:comercial@labomboniera.com.br\" target=\"_blank\" class=\"bt\">\n FALE CONOSCO POR E-MAIL </a> | <a href=\"https://api.whatsapp.com/send?1=pt_BR&amp;phone=55011951171267\" target=\"_blank\" class=\"bt\"> FALE CONOSCO VIA WHATSAPP</a>"
+  "body": "<center> <a href=\"mailto:comercial@labomboniera.com.br\" target=\"_blank\" class=\"bt\">\n FALE CONOSCO POR E-MAIL </a> | <a href=\"https://api.whatsapp.com/send?1=pt_BR&amp;phone=55011951171267\" target=\"_blank\" class=\"bt\"> FALE CONOSCO VIA WHATSAPP</a>",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
