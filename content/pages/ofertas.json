@@ -1,0 +1,25 @@
+{
+  "title": "Ofertas",
+  "meta_title": "Ofertas",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "offers"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ],
+  "meta_description": "Ofertas | Mês do Cliente com Ofertas Imperdíveis ",
+  "body": "Confira as ofertas que preparamos para você!"
+}
