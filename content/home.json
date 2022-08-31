@@ -10,14 +10,20 @@
         {
           "start": "2022-08-17T00:00:52.044Z",
           "end": "",
-          "img": "/img/uploads/robe-personalizado-noivas.jpg",
-          "mobile_img": "/img/uploads/robe-personalizado-noivas-mobile.jpg"
+          "img": "/img/uploads/robe-personalizado-noivas_ok.jpg",
+          "mobile_img": "/img/uploads/robe-personalizado-noivas-mobile_ok.jpg"
         },
         {
           "start": "2022-08-17T00:23:54.987Z",
           "end": "",
           "img": "/img/uploads/slide-amendoas.jpg",
           "mobile_img": "/img/uploads/slide-amendoas-mobile.jpg"
+        },
+        {
+          "start": "2022-08-31T14:13:25.234Z",
+          "end": "",
+          "img": "/img/uploads/batizado_desktop.jpg",
+          "mobile_img": "/img/uploads/batizado_mobile.jpg"
         }
       ]
     },
@@ -25,13 +31,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/bebe.jpg"
+          "img": "/img/uploads/casamento.jpg"
+        },
+        {
+          "img": "/img/uploads/convites-madrinhas-padrinhos.jpg"
         },
         {
           "img": "/img/uploads/celebrar.jpg"
         },
         {
-          "img": "/img/uploads/casamento.jpg"
+          "img": "/img/uploads/bebe.jpg"
         }
       ]
     },
