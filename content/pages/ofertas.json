@@ -7,13 +7,18 @@
       "enabled": true
     },
     {
-      "type": "extra-page",
-      "enabled": true
+      "type": "responsive-banner",
+      "img": "/img/uploads/dia-do-cliente-feed-labomboniera-1920-380-px-.png",
+      "mobile_img": "/img/uploads/dia-do-cliente-banner-labomboniera-700-400-px-.png"
     },
     {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "offers"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
     },
     {
       "type": "info-bar",
