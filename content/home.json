@@ -28,6 +28,11 @@
       ]
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "offers"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -45,18 +50,31 @@
       ]
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "offers"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62ffb5911edaa56e53a06bba:categories:Madrinhas e Padrinhos:/madrinhas-e-padrinhos/",
+      "sort": "offers",
+      "title": "❧ Presentes para Dindos e Dindas, confira  "
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": null,
+      "collection_id": "62ffb5961edaa56e53a06bc9:categories:Para o Grande Dia:/para-o-grande-dia/",
       "sort": "news",
-      "title": "Em Destaque "
+      "title": "❧ No Mês do Cliente vem conferir nossa seção para seu Grande Dia "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62ffb5971edaa56e53a06bcc:categories:Baby:/linhababy/",
+      "sort": "offers",
+      "title": "❧ Linha Baby : Batizado | Lembrancinhas confira "
     },
     {
       "type": "info-bar",
