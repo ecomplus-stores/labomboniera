@@ -28,6 +28,12 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/dia-do-cliente-feed-labomboniera-1920-380-px-.png",
+      "link": "https://labomboniera-ab605.web.app/pages/ofertas",
+      "mobile_img": "/img/uploads/dia-do-cliente-banner-labomboniera-700-400-px-.png"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "offers"
