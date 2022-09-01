@@ -12,13 +12,13 @@
       "mobile_img": "/img/uploads/dia-do-cliente-banner-labomboniera-700-400-px-.png"
     },
     {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "offers"
-    },
-    {
-      "type": "extra-page",
-      "enabled": true
     },
     {
       "type": "info-bar",
@@ -26,5 +26,5 @@
     }
   ],
   "meta_description": "Ofertas | Mês do Cliente com Ofertas Imperdíveis ",
-  "body": "Confira as ofertas que preparamos para você!"
+  "body": "Confira as ofertas que preparamos para você!\n\n###### **Frete Grátis via PAC no mês do cliente! * Independente do frete escolhido, o frete gratuito será via PAC.**"
 }
