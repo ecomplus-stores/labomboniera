@@ -28,6 +28,10 @@
       ]
     },
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/dia-do-cliente-feed-labomboniera-1920-380-px-.png",
       "link": "https://labomboniera-ab605.web.app/pages/ofertas",
@@ -81,10 +85,6 @@
       "collection_id": "62ffb5971edaa56e53a06bcc:categories:Baby:/linhababy/",
       "sort": "offers",
       "title": "❧ Linha Baby : Batizado | Lembrancinhas confira "
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     }
   ]
 }
