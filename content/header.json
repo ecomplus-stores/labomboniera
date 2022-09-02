@@ -6,16 +6,20 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Minha Conta"
+        "title": "Minha Conta",
+        "link": "https://labomboniera.com.br/app/#/account/"
       },
       {
-        "title": "Ver Pedidos"
+        "title": "Ver Pedidos",
+        "link": "https://labomboniera.com.br/app/#/account/orders"
       },
       {
-        "title": "Agende sua visita! "
+        "title": "Agende sua visita! ",
+        "link": "https://labomboniera.com.br/pages/sobre-nos"
       },
       {
-        "title": "Como Comprar"
+        "title": "Como Comprar",
+        "link": "https://labomboniera.com.br/pages/faq"
       }
     ],
     "phone_wpp": true,
