@@ -1,11 +1,14 @@
 {
   "shipping": {
     "show": true,
-    "text": "Envio para Todo Brasil"
+    "text": "Envio para Todo Brasil",
+    "link": "https://labomboniera.com.br/pages/entrega"
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 4x sem juros no cartão * "
+    "text": "Parcele em até 4x sem juros no cartão * ",
+    "title": "10% de desconto via PIX ou Boleto Bancário ",
+    "link": "https://labomboniera.com.br/pages/pagamentos"
   },
   "exchange": {
     "show": false,
