@@ -12,7 +12,7 @@
           "end": "",
           "img": "/img/uploads/robe-personalizado-noivas_ok.jpg",
           "mobile_img": "/img/uploads/robe-personalizado-noivas-mobile_ok.jpg",
-          "link": "https://labomboniera.com.br/",
+          "link": "https://labomboniera.com.br/robes-bordados/",
           "alt": "Robes de Cetim Personalizados "
         },
         {
@@ -20,7 +20,7 @@
           "end": "",
           "img": "/img/uploads/slide-amendoas.jpg",
           "mobile_img": "/img/uploads/slide-amendoas-mobile.jpg",
-          "link": "https://labomboniera.com.br/"
+          "link": "https://labomboniera.com.br/amendoas-confeitadas/"
         },
         {
           "start": "2022-08-31T14:13:25.234Z",
@@ -38,7 +38,7 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/dia-do-cliente-feed-labomboniera-1920-380-px-.png",
-      "link": "https://labomboniera-ab605.web.app/pages/ofertas",
+      "link": "https://labomboniera.com.br/pages/ofertas",
       "mobile_img": "/img/uploads/dia-do-cliente-banner-labomboniera-700-400-px-.png"
     },
     {
@@ -50,16 +50,20 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/casamento.jpg"
+          "img": "/img/uploads/casamento.jpg",
+          "link": "https://labomboniera.com.br/casamento/"
         },
         {
-          "img": "/img/uploads/convites-madrinhas-padrinhos.jpg"
+          "img": "/img/uploads/convites-madrinhas-padrinhos.jpg",
+          "link": "https://labomboniera.com.br/madrinhas-e-padrinhos/"
         },
         {
-          "img": "/img/uploads/celebrar.jpg"
+          "img": "/img/uploads/celebrar.jpg",
+          "link": "https://labomboniera.com.br/presentes-especias"
         },
         {
-          "img": "/img/uploads/bebe.jpg"
+          "img": "/img/uploads/bebe.jpg",
+          "link": "https://labomboniera.com.br/lembrancinhas/"
         }
       ]
     },
@@ -69,8 +73,9 @@
       "limit": 12,
       "page": 1,
       "collection_id": "62ffb5911edaa56e53a06bba:categories:Madrinhas e Padrinhos:/madrinhas-e-padrinhos/",
-      "sort": "offers",
-      "title": "❧ Presentes para Dindos e Dindas, confira  "
+      "sort": "views",
+      "title": "❧ Presentes para Dindos e Dindas, confira  ",
+      "link": "https://labomboniera.com.br/madrinhas-e-padrinhos/"
     },
     {
       "type": "collection-shelf",
@@ -79,7 +84,8 @@
       "page": 1,
       "collection_id": "62ffb5961edaa56e53a06bc9:categories:Para o Grande Dia:/para-o-grande-dia/",
       "sort": "news",
-      "title": "❧ No Mês do Cliente vem conferir nossa seção para seu Grande Dia "
+      "title": "❧ No Mês do Cliente vem conferir nossa seção para seu Grande Dia ",
+      "link": "https://labomboniera.com.br/para-o-grande-dia/"
     },
     {
       "type": "collection-shelf",
