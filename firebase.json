@@ -1,6 +1,321 @@
 {
   "hosting": {
     "redirects": [
+      {
+        "source": "/_205",
+        "destination": "/casamento",
+        "type": 301
+      },
+      {
+        "source": "/_203",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+
+{
+        "source": "/busca?",
+        "destination": "/casamento",
+        "type": 301
+      },
+      {
+        "source": "/_262",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+{
+        "source": "/_142",
+        "destination": "/casamento",
+        "type": 301
+      },
+      {
+        "source": "/_166",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+{
+        "source": "/_183",
+        "destination": "/casamento",
+        "type": 301
+      },
+      {
+        "source": "/_161",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+{
+        "source": "/_272",
+        "destination": "/casamento",
+        "type": 301
+      },
+      {
+        "source": "/_254",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+{
+        "source": "/_225",
+        "destination": "/casamento",
+        "type": 301
+      },
+      {
+        "source": "/_198",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+{
+        "source": "/_184",
+        "destination": "/casamento",
+        "type": 301
+      },
+      {
+        "source": "/_206",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+{
+        "source": "/_199",
+        "destination": "/casamento",
+        "type": 301
+      },
+      {
+        "source": "/_10013",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+{
+        "source": "/_140",
+        "destination": "/casamento",
+        "type": 301
+      },
+      {
+        "source": "/_158",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+{
+        "source": "/_228",
+        "destination": "/casamento",
+        "type": 301
+      },
+      {
+        "source": "/_179",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+{
+        "source": "/grid/10028",
+        "destination": "/casamento",
+        "type": 301
+      },
+      {
+        "source": "/_293",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+{
+        "source": "/grid/ofertas",
+        "destination": "/pages/ofertas",
+        "type": 301
+      },
+      {
+        "source": "/_159",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+{
+        "source": "/marca/10026",
+        "destination": "/casamento",
+        "type": 301
+      },
+      {
+        "source": "/marca/10011",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+{
+        "source": "/marca/1010",
+        "destination": "/casamento",
+        "type": 301
+      },
+      {
+        "source": "/favoritos",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+{
+        "source": "/_1007",
+        "destination": "/casamento",
+        "type": 301
+      },
+      {
+        "source": "/_277",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+{
+        "source": "/marca/10016",
+        "destination": "/casamento",
+        "type": 301
+      },
+      {
+        "source": "/_138",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+{
+        "source": "/_195",
+        "destination": "/casamento",
+        "type": 301
+      },
+      {
+        "source": "/_10009",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+{
+        "source": "/_10026",
+        "destination": "/casamento",
+        "type": 301
+      },
+      {
+        "source": "/_10016",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+{
+        "source": "/_10025",
+        "destination": "/casamento",
+        "type": 301
+      },
+      {
+        "source": "/grid/1007",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+{
+        "source": "/marca/10022",
+        "destination": "/casamento",
+        "type": 301
+      },
+      {
+        "source": "/marca/10004",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+        "source": "/10011",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+        "source": "/marca/10013",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+        "source": "/grid/1018",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+        "source": "/_252",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+        "source": "/grid/1005",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+        "source": "/10022",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+        "source": "/marca/1008",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+        "source": "/grid/1009",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+        "source": "/robes-em-cetim-creme",
+        "destination": "/robes-bordados/",
+        "type": 301
+      },
+{
+        "source": "/robes-em-cetim-rose-gold-com-bordado-marsala",
+        "destination": "/robes-bordados/",
+        "type": 301
+      },
+{
+        "source": "/favoritos",
+        "destination": "/casamento",
+        "type": 301
+      },
+{
+        "source": "/entrar",
+        "destination": "/app/#/account/",
+        "type": 301
+      },
+{
+        "source": "/cristais-porcelanas-e-pratarias/",
+        "destination": "/https://labomboniera.com.br/presentes-especias",
+        "type": 301
+      },
+{
+        "source": "/carrinho",
+        "destination": "/app/#/cart",
+        "type": 301
+      },
+{
+        "source": "/cristais-porcelanas-e-pratarias/",
+        "destination": "/presentes-especias",
+        "type": 301
+      },
+{
+        "source": "/pagina/entrega",
+        "destination": "/pages/entrega",
+        "type": 301
+      },
+{
+        "source": "/pagina/duvidas",
+        "destination": "/pages/faq",
+        "type": 301
+      },
+{
+        "source": "/pagina/privacidade",
+        "destination": "/pages/privacidade",
+        "type": 301
+      },
+{
+        "source": "/contato",
+        "destination": "/pages/contato",
+        "type": 301
+      }
     ],
     "public": "dist",
     "ignore": [
