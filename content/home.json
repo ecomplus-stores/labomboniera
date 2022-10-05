@@ -36,15 +36,9 @@
       "enabled": true
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/dia-do-cliente-feed-labomboniera-1920-380-px-.png",
-      "link": "https://labomboniera.com.br/pages/ofertas",
-      "mobile_img": "/img/uploads/dia-do-cliente-banner-labomboniera-700-400-px-.png"
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "offers"
+      "sort": "news"
     },
     {
       "type": "banners-grid",
