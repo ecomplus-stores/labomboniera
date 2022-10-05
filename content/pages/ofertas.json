@@ -7,11 +7,6 @@
       "enabled": true
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/dia-do-cliente-feed-labomboniera-1920-380-px-.png",
-      "mobile_img": "/img/uploads/dia-do-cliente-banner-labomboniera-700-400-px-.png"
-    },
-    {
       "type": "extra-page",
       "enabled": true
     },
@@ -25,6 +20,6 @@
       "enabled": true
     }
   ],
-  "meta_description": "Ofertas | Mês do Cliente com Ofertas Imperdíveis ",
-  "body": "Confira as ofertas que preparamos para você!\n\n###### **Frete Grátis via PAC no mês do cliente! * Independente do frete escolhido, o frete gratuito será via PAC.**"
+  "meta_description": "Ofertas | ",
+  "body": "C﻿onfira Ofertas do mês!"
 }
