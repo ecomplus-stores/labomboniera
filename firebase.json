@@ -11,7 +11,6 @@
         "destination": "/casamento",
         "type": 301
       },
-{
 
 {
         "source": "/busca?",
@@ -24,7 +23,6 @@
         "type": 301
       },
 {
-{
         "source": "/_142",
         "destination": "/casamento",
         "type": 301
@@ -34,7 +32,6 @@
         "destination": "/casamento",
         "type": 301
       },
-{
 {
         "source": "/_183",
         "destination": "/casamento",
@@ -46,7 +43,6 @@
         "type": 301
       },
 {
-{
         "source": "/_272",
         "destination": "/casamento",
         "type": 301
@@ -56,7 +52,6 @@
         "destination": "/casamento",
         "type": 301
       },
-{
 {
         "source": "/_225",
         "destination": "/casamento",
@@ -68,7 +63,6 @@
         "type": 301
       },
 {
-{
         "source": "/_184",
         "destination": "/casamento",
         "type": 301
@@ -78,7 +72,6 @@
         "destination": "/casamento",
         "type": 301
       },
-{
 {
         "source": "/_199",
         "destination": "/casamento",
@@ -90,7 +83,6 @@
         "type": 301
       },
 {
-{
         "source": "/_140",
         "destination": "/casamento",
         "type": 301
@@ -100,7 +92,6 @@
         "destination": "/casamento",
         "type": 301
       },
-{
 {
         "source": "/_228",
         "destination": "/casamento",
@@ -112,7 +103,6 @@
         "type": 301
       },
 {
-{
         "source": "/grid/10028",
         "destination": "/casamento",
         "type": 301
@@ -122,7 +112,6 @@
         "destination": "/casamento",
         "type": 301
       },
-{
 {
         "source": "/grid/ofertas",
         "destination": "/pages/ofertas",
@@ -134,7 +123,6 @@
         "type": 301
       },
 {
-{
         "source": "/marca/10026",
         "destination": "/casamento",
         "type": 301
@@ -144,7 +132,6 @@
         "destination": "/casamento",
         "type": 301
       },
-{
 {
         "source": "/marca/1010",
         "destination": "/casamento",
@@ -156,7 +143,6 @@
         "type": 301
       },
 {
-{
         "source": "/_1007",
         "destination": "/casamento",
         "type": 301
@@ -166,7 +152,6 @@
         "destination": "/casamento",
         "type": 301
       },
-{
 {
         "source": "/marca/10016",
         "destination": "/casamento",
@@ -178,7 +163,6 @@
         "type": 301
       },
 {
-{
         "source": "/_195",
         "destination": "/casamento",
         "type": 301
@@ -188,7 +172,6 @@
         "destination": "/casamento",
         "type": 301
       },
-{
 {
         "source": "/_10026",
         "destination": "/casamento",
@@ -200,7 +183,6 @@
         "type": 301
       },
 {
-{
         "source": "/_10025",
         "destination": "/casamento",
         "type": 301
@@ -210,7 +192,6 @@
         "destination": "/casamento",
         "type": 301
       },
-{
 {
         "source": "/marca/10022",
         "destination": "/casamento",
