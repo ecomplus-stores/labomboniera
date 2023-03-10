@@ -75,6 +75,21 @@
       "link": "https://labomboniera.com.br/madrinhas-e-padrinhos/"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2023-03-10T18:29:05.219Z",
+          "end": "",
+          "img": "/img/uploads/slidedepoimentos.png",
+          "mobile_img": "/img/uploads/slidedepoimentos-mobile.png",
+          "link": "https://labomboniera.com.br/pages/depoimentos",
+          "alt": "O que nossos clientes dizem sobre nossos produtos - La Bomboneira"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
