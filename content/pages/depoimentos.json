@@ -11,10 +11,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/1depoimento-labomboneira.png"
+          "img": "/img/uploads/1depoimento-labomboneira.png",
+          "alt": "Oieee …  Passando para dizer o quanto fiquei feliz com  as minhas caixas … eu amei cada detalhe,  não podia esperar menos de vcs ..  vcs são ótimos ..  amei toda atenção que tiveram em ouvir cada  detalhe que eu queria nas minais caixas .  Ficaram lindas mais do que eu esperava .. "
         },
         {
-          "img": "/img/uploads/2depoimento-labomboneira.png"
+          "img": "/img/uploads/2depoimento-labomboneira.png",
+          "alt": "Um sonho realizado!  Muito obrigada Ste por todo o carinho,  por todo capricho, por toda atenção,  vocês foram excelentes.  Ficaram perfeitas sem nenhum defeito, uma perfeição em forma de caixa!  Valeu a pena por tudo ❤️❤️❤️❤️  estou apaixonada 😍"
         }
       ]
     },
@@ -22,13 +24,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/3depoimento-labomboneira.png"
+          "img": "/img/uploads/3depoimento-labomboneira.png",
+          "alt": "Eu tô apaixonada pelas caixinhas  personalizadas.  Chegaram rapidinho e já entreguei para todos os  meus padrinhos.  Todos ficaram encantos com a sofisticação dos convites.  Muito obrigada pelo capricho e por toda atenção que  tiveram com a gente, desde a escolha das gravatas e robes, até a finalização com os convites impressos.  Amei, indico de olhos fechadinhos ❤️"
         },
         {
-          "img": "/img/uploads/4depoimento-labomboneira.png"
+          "img": "/img/uploads/4depoimento-labomboneira.png",
+          "alt": "Recebi os Robes hj, São lindos,perfeitos,estou apaixonada, Ótima qualidade,cores vibrantes do  jeitinho q imaginei.. Obrigada pelo compromisso e atenção  c o cliente.. Deus abençoe vcs❤️😘"
         },
         {
-          "img": "/img/uploads/5depoimento-labomboneira.png"
+          "img": "/img/uploads/5depoimento-labomboneira.png",
+          "alt": "Bom dia meninas! Passando para agradecer o material de sábado passado... Ficou lindo toda vida! Super obrigado e até a próxima!"
         }
       ]
     },
