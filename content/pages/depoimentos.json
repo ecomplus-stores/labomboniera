@@ -33,6 +33,10 @@
       ]
     },
     {
+      "type": "custom-content",
+      "markdown": "<a href=\"https://api.whatsapp.com/send/?phone=5511951171267&amp;text&amp;type=phone_number&amp;app_absent=0\" class=\"bt\" target=\"_blank\">**Mande seu depoimento**\n\n </a>"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "views"
