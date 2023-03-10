@@ -1,0 +1,42 @@
+{
+  "title": "Depoimentos",
+  "meta_title": "Depoimentos | Labomboneira ",
+  "meta_description": "O que nossos clientes dizem sobre nossos produtos - La Bomboneira ",
+  "sections": [
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/1depoimento-labomboneira.png"
+        },
+        {
+          "img": "/img/uploads/2depoimento-labomboneira.png"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/3depoimento-labomboneira.png"
+        },
+        {
+          "img": "/img/uploads/4depoimento-labomboneira.png"
+        },
+        {
+          "img": "/img/uploads/5depoimento-labomboneira.png"
+        }
+      ]
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "views"
+    }
+  ],
+  "body": "O que nossos clientes dizem sobre nossos produtos - La Bomboneira"
+}
