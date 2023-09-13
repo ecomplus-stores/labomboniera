@@ -29,6 +29,12 @@
           "mobile_img": "/img/uploads/__batizado_mobile.webp",
           "link": "https://labomboniera.com.br/batizado/",
           "alt": "Lembrancinhas para Batizado - Veja mais "
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "template/public/img/uploads/banner-desktop_dia-do-consumidor.png",
+          "mobile_img": "/img/uploads/prancheta-1.png"
         }
       ]
     },
