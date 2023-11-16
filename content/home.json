@@ -10,13 +10,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/whatsapp-image-2023-11-10-at-12.15.07.jpeg",
-          "mobile_img": "/img/uploads/banner-mobile_black-friday.png",
-          "link": "https://labomboniera.com.br/pages/ofertas"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/whatsapp-image-2023-11-10-at-12.15.07-1-.jpeg",
           "mobile_img": "/img/uploads/banner-mobile_frete-gratis.png",
           "alt": "Frete grátis via PAC nas compras acima de R$350,00"
@@ -30,11 +23,11 @@
           "alt": "Robes de Cetim Personalizados "
         },
         {
-          "start": "2022-08-17T00:23:54.987Z",
+          "start": "",
           "end": "",
-          "img": "/img/uploads/slide-amendoas.jpg",
-          "mobile_img": "/img/uploads/slide-amendoas-mobile.jpg",
-          "link": "https://labomboniera.com.br/amendoas-confeitadas/"
+          "img": "/img/uploads/whatsapp-image-2023-11-10-at-12.15.07-2-.jpeg",
+          "link": "https://labomboniera.com.br/linhababy/",
+          "mobile_img": "/img/uploads/banner-mobile_linha-baby.png"
         },
         {
           "start": "2022-08-31T14:13:25.234Z",
@@ -45,11 +38,11 @@
           "alt": "Lembrancinhas para Batizado - Veja mais "
         },
         {
-          "start": "",
+          "start": "2022-08-17T00:23:54.987Z",
           "end": "",
-          "img": "/img/uploads/whatsapp-image-2023-11-10-at-12.15.07-2-.jpeg",
-          "link": "https://labomboniera.com.br/linhababy/",
-          "mobile_img": "/img/uploads/banner-mobile_linha-baby.png"
+          "img": "/img/uploads/slide-amendoas.jpg",
+          "mobile_img": "/img/uploads/slide-amendoas-mobile.jpg",
+          "link": "https://labomboniera.com.br/amendoas-confeitadas/"
         }
       ]
     },
