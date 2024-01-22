@@ -80,6 +80,34 @@
       "link": "https://labomboniera.com.br/linhababy/"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62ffb5911edaa56e53a06bba:categories:Madrinhas e Padrinhos:/madrinhas-e-padrinhos/",
+      "sort": "news",
+      "title": "❧ Presentes para Dindos e Dindas, confira  ",
+      "link": "https://labomboniera.com.br/madrinhas-e-padrinhos/"
+    },
+    {
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://labomboniera.com.br/destaques\">\n  ❧ Os queridinhos, confira </a></h4>"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "sales"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "link": "https://labomboniera.com.br/pages/ofertas",
+      "title": "❧ Promo - Vem ver nossos Descontos Especiais"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -101,16 +129,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "62ffb5911edaa56e53a06bba:categories:Madrinhas e Padrinhos:/madrinhas-e-padrinhos/",
-      "sort": "news",
-      "title": "❧ Presentes para Dindos e Dindas, confira  ",
-      "link": "https://labomboniera.com.br/madrinhas-e-padrinhos/"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
@@ -124,15 +142,6 @@
           "alt": "O que nossos clientes dizem sobre nossos produtos - Labomboneira"
         }
       ]
-    },
-    {
-      "type": "custom-html",
-      "html": "<a href=\"https://labomboniera.com.br/destaques\">❧ Os queridinhos</a>"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "sales"
     },
     {
       "type": "custom-html",
