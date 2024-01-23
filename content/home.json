@@ -111,14 +111,6 @@
         {
           "img": "/img/uploads/__robes-personalizados-labomboneira.webp",
           "link": "https://labomboniera.com.br/destaques"
-        },
-        {
-          "img": "/img/uploads/__linha-baby-labomboniera.webp",
-          "link": "https://labomboniera.com.br/caixa-revelacao-gravidez/"
-        },
-        {
-          "img": "/img/uploads/__fretegratis-labomboniera.webp",
-          "link": "https://labomboniera.com.br/destaques"
         }
       ]
     },
@@ -134,6 +126,21 @@
           "mobile_img": "/img/uploads/slidedepoimentos-mobile.png",
           "link": "https://labomboniera.com.br/pages/depoimentos",
           "alt": "O que nossos clientes dizem sobre nossos produtos - Labomboneira"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__linha-baby-labomboniera.webp",
+          "link": "https://labomboniera.com.br/caixa-revelacao-gravidez/",
+          "alt": "Caixa Personalizada Revelação Gravidez"
+        },
+        {
+          "img": "/img/uploads/__fretegratis-labomboniera.webp",
+          "link": "Frete Grátis nas compras a partir de R$350 - envio PAC para todo Brasil",
+          "alt": "https://labomboniera.com.br/destaques"
         }
       ]
     },
