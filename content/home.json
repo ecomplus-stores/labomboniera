@@ -112,20 +112,20 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/_casamento.webp",
-          "link": "https://labomboniera.com.br/casamento/"
+          "img": "/img/uploads/__promocao-labomboniera.webp",
+          "link": "https://labomboniera.com.br/pages/ofertas"
         },
         {
-          "img": "/img/uploads/__convites-madrinhas-padrinhos.webp",
-          "link": "https://labomboniera.com.br/papelaria-personalizada/"
+          "img": "/img/uploads/__robes-personalizados-labomboneira.webp",
+          "link": "https://labomboniera.com.br/destaques"
         },
         {
-          "img": "/img/uploads/celebrar.jpg",
-          "link": "https://labomboniera.com.br/para-o-grande-dia/"
+          "img": "/img/uploads/__linha-baby-labomboniera.webp",
+          "link": "https://labomboniera.com.br/caixa-revelacao-gravidez/"
         },
         {
-          "img": "/img/uploads/__bebe.webp",
-          "link": "https://labomboniera.com.br/lembrancinhas/"
+          "img": "/img/uploads/__fretegratis-labomboniera.webp",
+          "link": "https://labomboniera.com.br/destaques"
         }
       ]
     },
