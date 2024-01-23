@@ -21,6 +21,19 @@
       "sort": "views"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__linha-baby-labomboniera.webp",
+          "link": "https://labomboniera.com.br/caixa-revelacao-gravidez/"
+        },
+        {
+          "img": "/img/uploads/__promocao-labomboniera.webp",
+          "link": "https://labomboniera.com.br/pages/ofertas"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     }
