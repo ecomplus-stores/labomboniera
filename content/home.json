@@ -50,9 +50,9 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/home-banner.webp",
-      "mobile_img": "/img/uploads/mobile-home.webp",
-      "alt": "Parcele suas compras em até 5x sem juros no cartão ou garanta 5% de desconto para pagamento via Pix "
+      "img": "/img/uploads/banner-ativo-promo.png",
+      "mobile_img": "/img/uploads/banner-ativo-promo-mobile.png",
+      "alt": "Parcele suas compras em até 5x sem juros no cartão "
     },
     {
       "type": "collection-shelf",
