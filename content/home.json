@@ -29,7 +29,7 @@
       "limit": "",
       "page": 1,
       "collection_id": "62ffb5941edaa56e53a06bc4:categories:Robes Bordados:/robes-bordados/",
-      "sort": "sales",
+      "sort": "views",
       "title": "❧Confira nossa seção de Robes para Noivas Bordados",
       "link": "https://labomboniera.com.br/robes-bordados/"
     },
@@ -39,7 +39,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "65da9e6887ab487fbfc69889:collections:Lembranças Religiosas em Cristal Swarovski:/lembrancas-religiosas-importadas-cristal-swarovski",
-      "sort": "views",
+      "sort": "news",
       "title": "❧ Lembranças Religiosas em Cristal Swarovski",
       "link": "https://labomboniera.com.br/lembrancas-religiosas-importadas-cristal-swarovski"
     },
@@ -49,7 +49,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "62ffb5911edaa56e53a06bba:categories:Madrinhas e Padrinhos:/madrinhas-e-padrinhos/",
-      "sort": "views",
+      "sort": "sales",
       "title": "❧ Presentes para Dindos e Dindas, confira  ",
       "link": "https://labomboniera.com.br/madrinhas-e-padrinhos/"
     },
@@ -59,7 +59,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "65ed0f5b87ab487fbfddfa58:collections:Lembranças Cristal Murano e Swarovski:/lembrancas-cristal-murano-swarovski",
-      "sort": "views",
+      "sort": "news",
       "link": "https://labomboniera.com.br/lembrancas-cristal-murano-swarovski",
       "title": "❧ Lembranças em Cristal Murano e Swarovski "
     },
