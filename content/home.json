@@ -54,6 +54,16 @@
       "link": "https://labomboniera.com.br/madrinhas-e-padrinhos/"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "65ed0f5b87ab487fbfddfa58:collections:Lembranças Cristal Murano e Swarovski:/lembrancas-cristal-murano-swarovski",
+      "sort": "views",
+      "link": "https://labomboniera.com.br/lembrancas-cristal-murano-swarovski",
+      "title": "❧ Lembranças em Cristal Murano e Swarovski "
+    },
+    {
       "type": "custom-html",
       "html": "<h4 class=\"products-carousel__title\"><a href=\"https://labomboniera.com.br/destaques\">\n  ❧ Os queridinhos, confira </a></h4>"
     },
