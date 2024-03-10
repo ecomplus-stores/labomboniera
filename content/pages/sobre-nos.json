@@ -12,6 +12,10 @@
       "enabled": true
     },
     {
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://labomboniera.com.br/destaques\">❧Confira Os Mais Pedidos</a></h4>"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "sales"
