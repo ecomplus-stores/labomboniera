@@ -38,19 +38,34 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "offers",
-      "link": "https://labomboniera.com.br/pages/ofertas",
-      "title": "❧ Promo - Vem ver nossos Descontos Especiais"
+      "sort": "news",
+      "link": "https://labomboniera.com.br/destaques",
+      "title": "❧ Os mais queridos da loja",
+      "collection_id": "65aeeee42cd6b659590dcab8:collections:Os Queridinhos:/destaques"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "65da9e6887ab487fbfc69889:collections:Lembranças Religiosas em Cristal Swarovski:/lembrancas-religiosas-importadas-cristal-swarovski",
-      "sort": "views",
-      "title": "❧ Lembranças Religiosas em Cristal Swarovski",
-      "link": "https://labomboniera.com.br/lembrancas-religiosas-importadas-cristal-swarovski"
+      "sort": "offers",
+      "link": "https://labomboniera.com.br/pages/ofertas",
+      "title": "❧ Promo - Vem ver nossos Descontos Especiais"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__linha-baby-labomboniera.webp",
+          "link": "https://labomboniera.com.br/linhababy/",
+          "alt": "Caixa Personalizada Revelação Gravidez"
+        },
+        {
+          "img": "/img/uploads/__fretegratis-labomboniera.webp",
+          "link": "Frete Grátis nas compras a partir de R$350 - envio PAC para todo Brasil",
+          "alt": "https://labomboniera.com.br/destaques"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -67,34 +82,20 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "65da9e6887ab487fbfc69889:collections:Lembranças Religiosas em Cristal Swarovski:/lembrancas-religiosas-importadas-cristal-swarovski",
+      "sort": "views",
+      "title": "❧ Lembranças Religiosas em Cristal Swarovski",
+      "link": "https://labomboniera.com.br/lembrancas-religiosas-importadas-cristal-swarovski"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "65ed0f5b87ab487fbfddfa58:collections:Lembranças Cristal Murano e Swarovski:/lembrancas-cristal-murano-swarovski",
       "sort": "news",
       "link": "https://labomboniera.com.br/lembrancas-cristal-murano-swarovski",
       "title": "❧ Lembranças em Cristal Murano e Swarovski "
-    },
-    {
-      "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://labomboniera.com.br/destaques\">\n  ❧ Os queridinhos, confira </a></h4>"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "views"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__linha-baby-labomboniera.webp",
-          "link": "https://labomboniera.com.br/linhababy/",
-          "alt": "Caixa Personalizada Revelação Gravidez"
-        },
-        {
-          "img": "/img/uploads/__fretegratis-labomboniera.webp",
-          "link": "Frete Grátis nas compras a partir de R$350 - envio PAC para todo Brasil",
-          "alt": "https://labomboniera.com.br/destaques"
-        }
-      ]
     },
     {
       "type": "banner-slider",
