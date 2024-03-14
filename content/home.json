@@ -29,7 +29,7 @@
       "limit": "",
       "page": 1,
       "collection_id": "62ffb5941edaa56e53a06bc4:categories:Robes Bordados:/robes-bordados/",
-      "sort": "views",
+      "sort": "sales",
       "title": "❧Confira nossa seção de Robes para Noivas Bordados",
       "link": "https://labomboniera.com.br/robes-bordados/"
     },
@@ -38,8 +38,17 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "sort": "offers",
+      "link": "https://labomboniera.com.br/pages/ofertas",
+      "title": "❧ Promo - Vem ver nossos Descontos Especiais"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "65da9e6887ab487fbfc69889:collections:Lembranças Religiosas em Cristal Swarovski:/lembrancas-religiosas-importadas-cristal-swarovski",
-      "sort": "news",
+      "sort": "views",
       "title": "❧ Lembranças Religiosas em Cristal Swarovski",
       "link": "https://labomboniera.com.br/lembrancas-religiosas-importadas-cristal-swarovski"
     },
@@ -49,7 +58,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "62ffb5971edaa56e53a06bcc:categories:Baby:/linhababy/",
-      "sort": "sales",
+      "sort": "views",
       "title": "❧ Linha Baby",
       "link": "https://labomboniera.com.br/linhababy/"
     },
@@ -71,15 +80,6 @@
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "views"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "offers",
-      "link": "https://labomboniera.com.br/pages/ofertas",
-      "title": "❧ Promo - Vem ver nossos Descontos Especiais"
     },
     {
       "type": "banners-grid",
