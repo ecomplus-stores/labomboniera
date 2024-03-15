@@ -8,10 +8,10 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2024-03-11T03:34:28.983Z",
+          "start": "2024-03-15T03:14:23.325Z",
           "end": "",
-          "img": "/img/uploads/__fretegratis-labomboniera.webp",
-          "mobile_img": "/img/uploads/banner-mobile_frete-gratis.png",
+          "img": "/img/uploads/__consumidor-labomboniera-presente.webp",
+          "mobile_img": "/img/uploads/__consumidor-labomboniera-presente-m.webp",
           "link": "https://labomboniera.com.br/destaques",
           "alt": ""
         }
@@ -19,8 +19,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-ativo-promo.png",
-      "mobile_img": "/img/uploads/banner-ativo-promo-mobile.png",
+      "img": "/img/uploads/_fachada-labomboniera-d.webp",
+      "mobile_img": "/img/uploads/__fachada-labomboniera-m.webp",
       "alt": "Parcele suas compras em até 5x sem juros no cartão "
     },
     {
@@ -56,14 +56,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__linha-baby-labomboniera.webp",
+          "img": "/img/uploads/__linhababy-labomboniera.webp",
           "link": "https://labomboniera.com.br/linhababy/",
           "alt": "Caixa Personalizada Revelação Gravidez"
         },
         {
-          "img": "/img/uploads/__fretegratis-labomboniera.webp",
+          "img": "/img/uploads/__robes-para-noivas-labomboniera.webp",
           "link": "Frete Grátis nas compras a partir de R$350 - envio PAC para todo Brasil",
-          "alt": "https://labomboniera.com.br/destaques"
+          "alt": "https://labomboniera.com.br/robes-para-noiva/"
         }
       ]
     },
