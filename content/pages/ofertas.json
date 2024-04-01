@@ -3,11 +3,6 @@
   "meta_title": "Labomboniera: Confira Promoções Exclusivas! Robes Personalizados e Lembranças",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__consumidor-labomboniera-presente.webp",
-      "mobile_img": "/img/uploads/__consumidor-labomboniera-presente-m.webp"
-    },
-    {
       "type": "breadcrumbs",
       "enabled": true
     },
