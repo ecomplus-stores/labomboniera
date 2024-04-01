@@ -8,29 +8,24 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2024-03-15T03:14:23.325Z",
+          "start": "2024-04-01T00:17:56.919Z",
           "end": "",
-          "img": "/img/uploads/__consumidor-labomboniera-presente.webp",
-          "mobile_img": "/img/uploads/__consumidor-labomboniera-presente-m.webp",
+          "img": "/img/uploads/__fretegratis-abril.webp",
+          "mobile_img": "/img/uploads/__fretegratis-mabril.webp",
           "link": "https://labomboniera.com.br/destaques",
           "alt": ""
         }
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/_fachada-labomboniera-d.webp",
-      "mobile_img": "/img/uploads/__fachada-labomboniera-m.webp",
-      "alt": "Parcele suas compras em até 5x sem juros no cartão "
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "offers",
-      "link": "https://labomboniera.com.br/pages/ofertas",
-      "title": "❧ Promo - Últimos dias com toda loja 15% Off "
+      "sort": "views",
+      "link": "https://labomboniera.com.br/destaques",
+      "title": "❧ Destaques que nossas clientes amam",
+      "collection_id": "65aeeee42cd6b659590dcab8:collections:Os Queridinhos:/destaques"
     },
     {
       "type": "collection-shelf",
@@ -38,7 +33,7 @@
       "limit": "",
       "page": 1,
       "collection_id": "62ffb5941edaa56e53a06bc4:categories:Robes Bordados:/robes-bordados/",
-      "sort": "sales",
+      "sort": "views",
       "title": "❧Confira nossa seção de Robes para Noivas Bordados",
       "link": "https://labomboniera.com.br/robes-bordados/"
     },
@@ -48,9 +43,9 @@
       "limit": 12,
       "page": 1,
       "sort": "sales",
-      "link": "https://labomboniera.com.br/destaques",
-      "title": "❧ Os mais queridos da loja",
-      "collection_id": "65aeeee42cd6b659590dcab8:collections:Os Queridinhos:/destaques"
+      "link": "https://labomboniera.com.br/lembrancas-cristal-murano-swarovski",
+      "title": "❧ Lembranças Cristais Italianos",
+      "collection_id": "65ed0f5b87ab487fbfddfa58:collections:Lembranças Cristal Murano e Swarovski:/lembrancas-cristal-murano-swarovski"
     },
     {
       "type": "banners-grid",
@@ -86,16 +81,6 @@
       "sort": "sales",
       "title": "❧ Lembranças Religiosas em Cristal Swarovski",
       "link": "https://labomboniera.com.br/lembrancas-religiosas-importadas-cristal-swarovski"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "65ed0f5b87ab487fbfddfa58:collections:Lembranças Cristal Murano e Swarovski:/lembrancas-cristal-murano-swarovski",
-      "sort": "views",
-      "link": "https://labomboniera.com.br/lembrancas-cristal-murano-swarovski",
-      "title": "❧ Lembranças em Cristal Murano e Swarovski "
     },
     {
       "type": "banner-slider",
