@@ -22,55 +22,20 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "views",
-      "link": "https://labomboniera.com.br/destaques",
-      "title": "❧ Destaques que nossas clientes amam",
-      "collection_id": "65aeeee42cd6b659590dcab8:collections:Os Queridinhos:/destaques"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": "",
-      "page": 1,
-      "collection_id": "62ffb5941edaa56e53a06bc4:categories:Robes Bordados:/robes-bordados/",
-      "sort": "views",
-      "title": "❧Confira nossa seção de Robes para Noivas Bordados",
-      "link": "https://labomboniera.com.br/robes-bordados/"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "sort": "sales",
       "link": "https://labomboniera.com.br/lembrancas-cristal-murano-swarovski",
       "title": "❧ Lembranças Cristais Italianos",
       "collection_id": "65ed0f5b87ab487fbfddfa58:collections:Lembranças Cristal Murano e Swarovski:/lembrancas-cristal-murano-swarovski"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__linhababy-labomboniera.webp",
-          "link": "https://labomboniera.com.br/linhababy/",
-          "alt": "Caixa Personalizada Revelação Gravidez"
-        },
-        {
-          "img": "/img/uploads/__robes-para-noivas-labomboniera.webp",
-          "link": "Frete Grátis nas compras a partir de R$350 - envio PAC para todo Brasil",
-          "alt": "https://labomboniera.com.br/robes-para-noiva/"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "62ffb5971edaa56e53a06bcc:categories:Baby:/linhababy/",
       "sort": "sales",
-      "title": "❧ Linha Baby",
-      "link": "https://labomboniera.com.br/linhababy/"
+      "link": "https://labomboniera.com.br/destaques",
+      "title": "❧ Destaques que nossas clientes amam",
+      "collection_id": "65aeeee42cd6b659590dcab8:collections:Os Queridinhos:/destaques"
     },
     {
       "type": "collection-shelf",
@@ -81,6 +46,26 @@
       "sort": "views",
       "title": "❧ Lembranças Religiosas em Cristal Swarovski",
       "link": "https://labomboniera.com.br/lembrancas-religiosas-importadas-cristal-swarovski"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62ffb5971edaa56e53a06bcc:categories:Baby:/linhababy/",
+      "sort": "views",
+      "title": "❧ Linha Baby",
+      "link": "https://labomboniera.com.br/linhababy/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": 1,
+      "collection_id": "62ffb5941edaa56e53a06bc4:categories:Robes Bordados:/robes-bordados/",
+      "sort": "views",
+      "title": "❧Confira nossa seção de Robes para Noivas Bordados",
+      "link": "https://labomboniera.com.br/robes-bordados/"
     },
     {
       "type": "banner-slider",
