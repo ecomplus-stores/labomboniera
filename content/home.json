@@ -22,10 +22,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "sales",
-      "link": "https://labomboniera.com.br/lembrancas-cristal-murano-swarovski",
-      "title": "❧ Lembranças Cristais Italianos",
-      "collection_id": "65ed0f5b87ab487fbfddfa58:collections:Lembranças Cristal Murano e Swarovski:/lembrancas-cristal-murano-swarovski"
+      "sort": "offers",
+      "link": "https://labomboniera.com.br/pages/ofertas",
+      "title": "❧ Robes para Noivas em Oferta , aproveite! ",
+      "collection_id": null
     },
     {
       "type": "collection-shelf",
