@@ -18,6 +18,27 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__robesdiversos-promocao-labomboniera.webp",
+      "link": "https://labomboniera.com.br/pages/ofertas",
+      "alt": "Robes Personalizados em Oferta "
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__caixas-forradas-personalizadas-labomboniera.webp",
+          "link": "https://labomboniera.com.br/caixas-personalizadas/",
+          "alt": "Caixas Personalizadas, Forradas para Lembranças"
+        },
+        {
+          "img": "/img/uploads/__robesderenda-labomboniera.webp",
+          "link": "https://labomboniera.com.br/kit-robe-de-cetim-com-aplicacao-de-renda",
+          "alt": "Robe Noiva com Renda Bordado Personalizado"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
