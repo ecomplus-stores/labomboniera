@@ -179,7 +179,11 @@ const themeCustom = _.settings.theme.custom || ''
 
     <div class="footer__credits">
       <span>
-        <%= footer.credits || `© ${_.store.name} / ${contacts.address} / ${contacts.doc_number}` %>
+        <%= footer.credits | `Copyright ©2024 Labomboniera . Todos os direitos reservados. All rights reserved. |
+             Atendimento apenas com Hora Marcada. Rua Doutor José Milton de Freitas , 442 - Jardim Walkíria , São José do Rio Preto -SP / 21.245.146/0001-77
+           <br>
+                 <a href="https://www.alyma.com.br/" target="_blank" alt="Alyma" title="Alyma" style="font-size:11PX; color:#6f6e6e;  
+text-decoration: none;"> Layout e adaptação:Alyma</a>` %>
       </span>
       <% if (themeCustom === 'ecom-beauty') { %>
         <div class="ecom-credits-container">
