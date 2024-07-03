@@ -18,12 +18,6 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__robesdiversos-promocao-labomboniera.webp",
-      "link": "https://labomboniera.com.br/pages/ofertas",
-      "alt": "Robes Personalizados em Oferta "
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -43,17 +37,17 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "offers",
-      "link": "https://labomboniera.com.br/pages/ofertas",
-      "title": "❧ Robes para Noivas em Oferta , aproveite! ",
-      "collection_id": null
+      "sort": "sales",
+      "link": "https://labomboniera.com.br/robes-para-noiva/",
+      "title": "❧ Robes para Noivas ",
+      "collection_id": "62ffb5a81edaa56e53a06bfe:categories:Robes para Noiva:/robes-para-noiva/"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "sales",
+      "sort": "views",
       "link": "https://labomboniera.com.br/destaques",
       "title": "❧ Destaques que nossas clientes amam",
       "collection_id": "65aeeee42cd6b659590dcab8:collections:Os Queridinhos:/destaques"
@@ -63,10 +57,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "65da9e6887ab487fbfc69889:collections:Lembranças Religiosas em Cristal Swarovski:/lembrancas-religiosas-importadas-cristal-swarovski",
-      "sort": "views",
-      "title": "❧ Lembranças Religiosas em Cristal Swarovski",
-      "link": "https://labomboniera.com.br/lembrancas-religiosas-importadas-cristal-swarovski"
+      "collection_id": "65ed0f5b87ab487fbfddfa58:collections:Lembranças Cristal Murano e Swarovski:/lembrancas-cristal-murano-swarovski",
+      "sort": "sales",
+      "title": "❧ Lembranças Cristal Murano e Swarovski",
+      "link": "https://labomboniera.com.br/lembrancas-cristal-murano-swarovski"
     },
     {
       "type": "collection-shelf",
@@ -74,7 +68,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "62ffb5971edaa56e53a06bcc:categories:Baby:/linhababy/",
-      "sort": "news",
+      "sort": "sales",
       "title": "❧ Linha Baby",
       "link": "https://labomboniera.com.br/linhababy/"
     },
