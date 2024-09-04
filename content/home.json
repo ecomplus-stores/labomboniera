@@ -10,34 +10,25 @@
         {
           "start": "2024-04-01T00:17:56.919Z",
           "end": "",
-          "img": "/img/uploads/__fretegratis-abril.webp",
-          "mobile_img": "/img/uploads/__fretegratis-mabril.webp",
+          "img": "/img/uploads/sliderobe-d-set.png",
+          "mobile_img": "/img/uploads/sliderobe-mobile_set.png",
           "link": "https://labomboniera.com.br/destaques",
           "alt": ""
         }
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__caixas-forradas-personalizadas-labomboniera.webp",
-          "link": "https://labomboniera.com.br/caixas-personalizadas/",
-          "alt": "Caixas Personalizadas, Forradas para Lembranças"
-        },
-        {
-          "img": "/img/uploads/__robesderenda-labomboniera.webp",
-          "link": "https://labomboniera.com.br/kit-robe-de-cetim-com-aplicacao-de-renda",
-          "alt": "Robe Noiva com Renda Bordado Personalizado"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/fachada-d-set.png",
+      "mobile_img": "/img/uploads/fachada-m-set.png",
+      "link": "https://labomboniera.com.br/pages/contato"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "views",
+      "sort": "sales",
       "link": "https://labomboniera.com.br/robes-para-noiva/",
       "title": "❧ Robes para Noivas ",
       "collection_id": "62ffb5a81edaa56e53a06bfe:categories:Robes para Noiva:/robes-para-noiva/"
@@ -68,7 +59,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "62ffb5971edaa56e53a06bcc:categories:Baby:/linhababy/",
-      "sort": "news",
+      "sort": "sales",
       "title": "❧ Linha Baby",
       "link": "https://labomboniera.com.br/linhababy/"
     },
