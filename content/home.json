@@ -24,6 +24,12 @@
       "link": "https://labomboniera.com.br/pages/contato"
     },
     {
+      "type": "brands-carousel",
+      "limit": 11,
+      "offset": 0,
+      "sort": null
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
