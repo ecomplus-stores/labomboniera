@@ -34,7 +34,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "sales",
+      "sort": "views",
       "link": "https://labomboniera.com.br/robes-para-noiva/",
       "title": "❧ Robes para Noivas ",
       "collection_id": "62ffb5a81edaa56e53a06bfe:categories:Robes para Noiva:/robes-para-noiva/"
@@ -44,7 +44,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "sales",
+      "sort": "views",
       "link": "https://labomboniera.com.br/destaques",
       "title": "❧ Destaques que nossas clientes amam",
       "collection_id": "65aeeee42cd6b659590dcab8:collections:Os Queridinhos:/destaques"
@@ -55,7 +55,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "65ed0f5b87ab487fbfddfa58:collections:Lembranças Cristal Murano e Swarovski:/lembrancas-cristal-murano-swarovski",
-      "sort": "views",
+      "sort": "sales",
       "title": "❧ Lembranças Cristal Murano e Swarovski",
       "link": "https://labomboniera.com.br/lembrancas-cristal-murano-swarovski"
     },
@@ -65,7 +65,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "62ffb5971edaa56e53a06bcc:categories:Baby:/linhababy/",
-      "sort": "sales",
+      "sort": "news",
       "title": "❧ Linha Baby",
       "link": "https://labomboniera.com.br/linhababy/"
     },
