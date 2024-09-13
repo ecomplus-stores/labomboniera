@@ -29,6 +29,12 @@
       "title": "Quem comprou este produto, também comprou:"
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": "name"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
