@@ -27,19 +27,6 @@
       "sort": "name"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__fretegratis-labomboniera.webp",
-          "link": "https://labomboniera.com.br/destaques"
-        },
-        {
-          "img": "/img/uploads/__linha-baby-labomboniera.webp",
-          "link": "https://labomboniera.com.br/linhababy/"
-        }
-      ]
-    },
-    {
       "type": "info-bar",
       "enabled": true
     }
