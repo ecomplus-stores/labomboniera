@@ -34,7 +34,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "views",
+      "sort": "news",
       "link": "https://labomboniera.com.br/robes-para-noiva/",
       "title": "❧ Robes para Noivas ",
       "collection_id": "62ffb5a81edaa56e53a06bfe:categories:Robes para Noiva:/robes-para-noiva/"
@@ -44,7 +44,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "views",
+      "sort": "sales",
       "link": "https://labomboniera.com.br/destaques",
       "title": "❧ Destaques que nossas clientes amam",
       "collection_id": "65aeeee42cd6b659590dcab8:collections:Os Queridinhos:/destaques"
