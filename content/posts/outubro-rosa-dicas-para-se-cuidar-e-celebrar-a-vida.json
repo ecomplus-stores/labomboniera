@@ -35,6 +35,10 @@
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ],
   "meta_title": "Outubro Rosa: Dicas para se Cuidar e Celebrar a Vida - Labomboniera ",
