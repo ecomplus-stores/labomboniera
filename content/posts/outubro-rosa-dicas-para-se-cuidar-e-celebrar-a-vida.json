@@ -12,8 +12,9 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/outubrorosa.png",
-      "alt": "outubro rosa labomboniera"
+      "img": "/img/uploads/outubro-rosad.png",
+      "alt": "outubro rosa labomboniera",
+      "mobile_img": "/img/uploads/outubro-rosam.png"
     },
     {
       "type": "blog-post",
@@ -21,8 +22,9 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/cupomespecial.png",
-      "alt": "cupom desconto outubro"
+      "img": "/img/uploads/cupomespeciald.png",
+      "alt": "cupom desconto outubro",
+      "mobile_img": "/img/uploads/cupomespecial.png"
     },
     {
       "type": "brands-carousel",
