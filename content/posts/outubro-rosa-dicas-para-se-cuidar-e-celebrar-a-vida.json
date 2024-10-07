@@ -1,0 +1,40 @@
+{
+  "date": "2024-10-07T19:30:28.246Z",
+  "body": "<!--StartFragment-->\n\n**Outubro Rosa: Dicas para se Cuidar e Celebrar a Vida**\n\nO **Outubro Rosa** é um movimento mundial de conscientização sobre a importância da prevenção e do diagnóstico precoce do câncer de mama. Essa campanha nos lembra que cuidar da nossa saúde é um ato de amor próprio e que a prevenção é o melhor caminho para uma vida longa e saudável.\n\n**1. Conheça seu corpo:**\n\nA primeira e mais importante dica é conhecer o seu corpo. Observe seus seios regularmente e fique atenta a qualquer alteração, como nódulos, vermelhidão, inchaço ou secreção nos mamilos.\n\n**2. Faça o autoexame:**\n\nO autoexame das mamas é uma forma simples e eficaz de detectar alterações precocemente. Realize-o mensalmente, de preferência após o período menstrual.\n\n**3. Consulte seu médico regularmente:**\n\nA mamografia é o exame mais importante para o diagnóstico precoce do câncer de mama. Consulte seu médico regularmente e siga suas recomendações sobre a frequência dos exames.\n\n**4. Adote hábitos saudáveis:**\n\nUma alimentação equilibrada, a prática regular de exercícios físicos e o controle do peso são fundamentais para a prevenção do câncer de mama e de outras doenças.\n\n**5. Compartilhe informações:**\n\nCompartilhe informações sobre a importância da prevenção com suas amigas, familiares e colegas de trabalho. Quanto mais pessoas estiverem informadas, mais vidas poderão ser salvas.\n\n**6. Celebre a vida:**\n\nO Outubro Rosa é também um momento para celebrar a vida e a força da mulher. Participe de eventos, use o laço rosa, compartilhe mensagens de apoio e inspire outras mulheres a se cuidarem.\n\n**Lembre-se:** A prevenção é o melhor presente que você pode dar a si mesma. Cuide-se, ame-se e celebre a vida!\n\n*Na **Labomboniera**, queremos te ajudar a celebrar a vida com presentes especiais e cheios de significado.* \n\nAproveite nosso **cupom ESPECIALPRAVC** e ganhe 12% de desconto em qualquer compra no nosso site. *Válido por tempo indeterminado.*\n\n\n\n<!--EndFragment-->",
+  "title": "Outubro Rosa: Dicas para se Cuidar e Celebrar a Vida",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/outubrorosa.png",
+      "alt": "outubro rosa labomboniera"
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/cupomespecial.png",
+      "alt": "cupom desconto outubro"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
+    }
+  ],
+  "meta_title": "Outubro Rosa: Dicas para se Cuidar e Celebrar a Vida - Labomboniera ",
+  "meta_description": "Outubro Rosa: conscientização e prevenção do câncer de mama. Conheça seu corpo, faça o autoexame e celebre a vida. Cuide-se!"
+}
