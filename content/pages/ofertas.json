@@ -1,6 +1,6 @@
 {
   "title": "Labomboniera: Confira Promoções Exclusivas!",
-  "meta_title": "Labomboniera: Confira Promoções Exclusivas! Robes Personalizados e Lembranças",
+  "meta_title": "Black Week Labomboniera: Até 55% Off - Robes Personalizados e Lembranças",
   "sections": [
     {
       "type": "breadcrumbs",
@@ -9,6 +9,12 @@
     {
       "type": "extra-page",
       "enabled": true
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": "name"
     },
     {
       "type": "dynamic-showcase",
@@ -21,5 +27,5 @@
     }
   ],
   "meta_description": "Labomboniera! Robes personalizados, lembranças e mais em promoções especiais.",
-  "body": "**Explore Promoções Labomboniera!** \n\n*Quem não ama um desconto? Este é o lugar perfeito para aproveitar nossas promo especiais que preparamos para você.*  \n\nNa Labomboniera você encontra Robes Personalizados, Lembranças e Papelaria para seu Casamento. \n\nLembranças para ocasiões especiais e claro, nossa Caixa Revelação de Gravidez que as gravidinhas amam!! \n\n*Confira o prazo de produção e encomende hoje mesmo seus pedidos, enviamos para Todo Brasil.* \n\n***Aproveite frete grátis nas compras acima de R$350, envio PAC para todo Brasil.***"
+  "body": "**Explore Promoções Labomboniera!** \n\n✨ Black Week Labomboniera: a hora de garantir descontos incríveis! ✨\n\nPrepare-se para uma semana de ofertas imperdíveis em produtos personalizados para todas as ocasiões! 🎁\n\n**Aproveite:**\n\nAté 55% OFF em peças selecionadas: robes de cetim, lembrancinhas, caixas personalizadas e muito mais! 😱\n***30% OFF em cristais Swarovski***: elegância e sofisticação com um toque de brilho. ✨\n***Robes personalizados com até 43% OFF***: para noivas, madrinhas, debutantes e momentos especiais. 👰‍♀️\n*Confira o prazo de produção e encomende hoje mesmo seus pedidos, enviamos para Todo Brasil.* \n\n***Aproveite frete grátis nas compras acima de R$350, envio PAC para todo Brasil.***"
 }
