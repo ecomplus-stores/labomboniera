@@ -8,66 +8,68 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2024-04-01T00:17:56.919Z",
+          "start": "2024-11-25T23:01:28.167Z",
           "end": "",
-          "img": "/img/uploads/sliderobe-d-set.png",
-          "mobile_img": "/img/uploads/sliderobe-mobile_set.png",
-          "link": "https://labomboniera.com.br/destaques",
-          "alt": ""
+          "img": "/img/uploads/robe-noiva-rose-d1.webp",
+          "mobile_img": "/img/uploads/robe-noiva-rose-d.webp",
+          "link": "https://labomboniera.com.br/robe-de-noiva-luci-c334",
+          "alt": "BLACK WEEK LABOMBONIERA- ROBES PARA NOIVAS"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/porta-joias-d.webp",
+          "link": "https://labomboniera.com.br/pecas-com-desconto",
+          "mobile_img": "/img/uploads/porta-joias-m.webp",
+          "alt": "BLACK WEEK LABOMBONIERA - DESCONTOS"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/robe-noiva-luci-d.webp",
+          "mobile_img": "/img/uploads/robe-noiva-luci-m.webp",
+          "link": "https://labomboniera.com.br/robe-de-noiva-luci",
+          "alt": "BLACK WEEK LABOMBONIERA - ROBES PARA NOIVAS"
         }
       ]
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/fachada-d-set.png",
+      "img": "/img/uploads/fachada.webp",
       "mobile_img": "/img/uploads/fachada-m-set.png",
       "link": "https://labomboniera.com.br/pages/contato"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/bandeja-personalizada.webp",
+          "link": "https://labomboniera.com.br/caixas-com-desconto",
+          "alt": "BLACK WEEK - LABOMBONIERA - Caixas com desconto"
+        },
+        {
+          "img": "/img/uploads/robe-personalizado-cor.webp",
+          "link": "https://labomboniera.com.br/robes-com-desconto",
+          "alt": "Black Week - Labomboniera - Robes Personalizados com Desconto"
+        }
+      ]
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "offers"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/cristais.webp",
+      "link": "https://labomboniera.com.br/cristais-murano-swarovski",
+      "alt": "30% Off em Cristais - Black Week"
     },
     {
       "type": "brands-carousel",
       "limit": 11,
       "offset": 0,
       "sort": null
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "offers",
-      "link": "https://labomboniera.com.br/pages/ofertas",
-      "title": "❧ BLACK WEEK  - Confira todos os descontos da semana ",
-      "collection_id": null
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "views",
-      "link": "https://labomboniera.com.br/destaques",
-      "title": "❧ Destaques que nossas clientes amam",
-      "collection_id": "65aeeee42cd6b659590dcab8:collections:Os Queridinhos:/destaques"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "65ed0f5b87ab487fbfddfa58:collections:Lembranças Cristal Murano e Swarovski:/lembrancas-cristal-murano-swarovski",
-      "sort": "offers",
-      "title": "❧ 30% Off em Lembranças Cristal Murano e Swarovski",
-      "link": "https://labomboniera.com.br/lembrancas-cristal-murano-swarovski"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "62ffb5971edaa56e53a06bcc:categories:Baby:/linhababy/",
-      "sort": "offers",
-      "title": "❧ Linha Baby",
-      "link": "https://labomboniera.com.br/linhababy/"
     },
     {
       "type": "banner-slider",
