@@ -3,12 +3,62 @@
   "meta_title": "Black Week Labomboniera: Até 55% Off - Robes Personalizados e Lembranças",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/robe-noiva-luci-d.webp",
+          "mobile_img": "/img/uploads/robe-noiva-luci-m.webp",
+          "alt": "black week - labomboniera"
+        }
+      ]
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
     {
-      "type": "extra-page",
-      "enabled": true
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "66d8f759fc4aac27a2c668d9:brands:Cristal Murano e Swarovski:/cristais-murano-swarovski",
+      "sort": "offers",
+      "title": "30% em Lembranças de Cristal Swarovski",
+      "link": "https://labomboniera.com.br/cristais-murano-swarovski"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6693112ff4e6d85ab2d079dd:brands:Robes Personalizados:/robe-para-casamento",
+      "sort": "offers",
+      "link": "https://labomboniera.com.br/robes-com-desconto",
+      "title": "Robes Personalizados Diversas Cores - veja todos com desconto"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62ffb59b1edaa56e53a06bd8:categories:Caixas Forradas:/caixas-personalizadas/",
+      "sort": "offers",
+      "title": "Black Week - Caixas Com Desconto",
+      "link": "https://labomboniera.com.br/caixas-com-desconto"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "66d8f7f6fc4aac27a2c669bc:brands:PAPELARIA PERSONALIZADA:/papelaria-eventos",
+      "sort": "offers",
+      "link": "https://labomboniera.com.br/pecas-com-desconto",
+      "title": "Black Week - Mais descontos"
     },
     {
       "type": "brands-carousel",
@@ -17,9 +67,8 @@
       "sort": "name"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "offers"
+      "type": "extra-page",
+      "enabled": true
     },
     {
       "type": "info-bar",
