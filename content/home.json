@@ -9,15 +9,15 @@
       "link": "https://labomboniera.com.br/pages/contato"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "offers"
-    },
-    {
       "type": "brands-carousel",
       "limit": 11,
       "offset": 0,
       "sort": null
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "offers"
     },
     {
       "type": "banner-slider",
