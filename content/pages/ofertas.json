@@ -1,64 +1,15 @@
 {
   "title": "Labomboniera: Confira Promoções Exclusivas!",
-  "meta_title": "Black Week Labomboniera: Até 55% Off - Robes Personalizados e Lembranças",
+  "meta_title": "Sale Labomboniera",
   "sections": [
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/robe-noiva-luci-d.webp",
-          "mobile_img": "/img/uploads/robe-noiva-luci-m.webp",
-          "alt": "black week - labomboniera"
-        }
-      ]
-    },
     {
       "type": "breadcrumbs",
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "66d8f759fc4aac27a2c668d9:brands:Cristal Murano e Swarovski:/cristais-murano-swarovski",
-      "sort": "offers",
-      "title": "30% em Lembranças de Cristal Swarovski",
-      "link": "https://labomboniera.com.br/cristais-murano-swarovski"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "674502b4b779d7717960e500:collections:Black Week - Robes Personalizados com Descontos:/robes-com-desconto",
-      "sort": "offers",
-      "link": "https://labomboniera.com.br/robes-com-desconto",
-      "title": "Robes Personalizados Diversas Cores - veja todos com desconto"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6745042fb779d7717960e63a:collections:Black Week - Caixas com Desconto:/caixas-com-desconto",
-      "sort": "offers",
-      "title": "Black Week - Caixas Com Desconto",
-      "link": "https://labomboniera.com.br/caixas-com-desconto"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6745050fb779d7717960e6fe:collections:Black Week - Peças com Desconto:/pecas-com-desconto",
-      "sort": "offers",
-      "link": "https://labomboniera.com.br/pecas-com-desconto",
-      "title": "Black Week - Mais descontos"
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "offers"
     },
     {
       "type": "brands-carousel",
@@ -76,5 +27,5 @@
     }
   ],
   "meta_description": "Labomboniera! Robes personalizados, lembranças e mais em promoções especiais.",
-  "body": "**Explore Promoções Labomboniera!** \n\n✨ Black Week Labomboniera: a hora de garantir descontos incríveis! ✨\n\nPrepare-se para uma semana de ofertas imperdíveis em produtos personalizados para todas as ocasiões! 🎁\n\n**Aproveite:**\n\nAté 55% OFF em peças selecionadas: robes de cetim, lembrancinhas, caixas personalizadas e muito mais! 😱\n***30% OFF em cristais Swarovski***: elegância e sofisticação com um toque de brilho. ✨\n***Robes personalizados com até 43% OFF***: para noivas, madrinhas, debutantes e momentos especiais. 👰‍♀️\n*Confira o prazo de produção e encomende hoje mesmo seus pedidos, enviamos para Todo Brasil.* \n\n***Aproveite frete grátis nas compras acima de R$350, envio PAC para todo Brasil.***"
+  "body": "**Explore Promoções Labomboniera!** \n\n*Confira o prazo de produção e encomende hoje mesmo seus pedidos, enviamos para Todo Brasil.* \n\n***Aproveite frete grátis nas compras acima de R$350, envio PAC para todo Brasil.***"
 }
