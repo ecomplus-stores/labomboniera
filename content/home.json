@@ -3,21 +3,6 @@
   "meta_description": "Loja Online de Personalizados para Casamento, Nascimento e Aniversários. Robes Bordados para Noivas e Madrinhas. Lembranças Importadas da Itália e mais conheça.",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/porta-joias-d.webp",
-          "link": "https://labomboniera.com.br/pecas-com-desconto",
-          "mobile_img": "/img/uploads/porta-joias-m.webp",
-          "alt": "BLACK WEEK LABOMBONIERA - DESCONTOS"
-        }
-      ]
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/fachada.webp",
       "mobile_img": "/img/uploads/fachada-m-set.png",
