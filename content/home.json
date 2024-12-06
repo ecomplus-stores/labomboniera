@@ -3,6 +3,27 @@
   "meta_description": "Loja Online de Personalizados para Casamento, Nascimento e Aniversários. Robes Bordados para Noivas e Madrinhas. Lembranças Importadas da Itália e mais conheça.",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2024-12-06T04:24:48.260Z",
+          "end": "",
+          "img": "/img/uploads/cristais-d-natal.png",
+          "link": "https://labomboniera.com.br/cristais-murano-swarovski",
+          "mobile_img": "/img/uploads/cristais-m.png"
+        },
+        {
+          "start": "2024-12-06T04:33:26.564Z",
+          "end": "",
+          "img": "/img/uploads/robes-2025-1-.png",
+          "mobile_img": "/img/uploads/robes-2025-m.png",
+          "link": "https://labomboniera.com.br/robe-para-casamento"
+        }
+      ]
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/fachada.webp",
       "mobile_img": "/img/uploads/fachada-m-set.png",
@@ -17,7 +38,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "offers"
+      "sort": "views"
     },
     {
       "type": "banner-slider",
