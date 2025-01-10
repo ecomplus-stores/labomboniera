@@ -8,13 +8,6 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2024-12-06T04:24:48.260Z",
-          "end": "",
-          "img": "/img/uploads/cristais-d-natal.png",
-          "link": "https://labomboniera.com.br/cristais-murano-swarovski",
-          "mobile_img": "/img/uploads/cristais-m.png"
-        },
-        {
           "start": "2024-12-06T04:33:26.564Z",
           "end": "",
           "img": "/img/uploads/robes-2025-1-.png",
@@ -38,7 +31,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "views"
+      "sort": "sales"
     },
     {
       "type": "banner-slider",
