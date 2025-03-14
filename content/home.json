@@ -36,6 +36,16 @@
       "sort": null
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "65aeeee42cd6b659590dcab8:collections:Os Queridinhos:/destaques",
+      "sort": "sales",
+      "title": "DESTAQUES DA SEMANA",
+      "link": "https://labomboniera.com.br/destaques"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
