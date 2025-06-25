@@ -12,6 +12,18 @@
       "enabled": true
     },
     {
+      "type": "custom-html",
+      "html": "<center><div>\n    \n\n<style type=\"text/css\" rel=\"stylesheet\">\n  \n    #rd-box-kd0h0qwg {\n      \n          background-color: rgba(255,255,255,1);\n        \n      border-bottom-style: solid;\n      border-color: #cacaca;\n      border-left-style: solid;\n      border-radius: 6px;\n      border-right-style: none;\n      border-top-style: none;\n      border-width: 1px;\n      padding-top: 0px;\n      padding-right: 12px;\n      padding-bottom: 0px;\n      padding-left: 12px;\n      min-height: -1px;\n      margin-top: 15px;\n      margin-bottom: 10px;\n      max-width: 340px;\n      align-self: flex-start;\n      display: flex;\n      flex-direction: column;\n    }\n  \n\n  \n</style>\n</p></center> <br>\n"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "**Conheça Nossas Soluções Exclusivas:**\n\n**Press Kits Personalizados:** Crie uma experiência memorável para influenciadores, jornalistas e parceiros. Nossos press kits são montados com cuidado para que cada item conte a história do seu lançamento ou campanha, deixando uma impressão duradoura. Já entregamos mais de 100 unidades de Robes Personalizados para um lançamento de marca de cosméticos, chegando às mãos de influenciadoras de todo o Brasil, e é um imenso prazer ver esses projetos ganhando vida e fazendo parte de momentos marcantes como esse.\n\n**Brindes Personalizados:** Fortaleça o relacionamento com seus clientes e colaboradores. De mimos charmosos a presentes sofisticados, personalize cada item com o seu logo, cores e mensagem, garantindo que sua marca seja lembrada com carinho e profissionalismo. Recentemente, a dermatologista @michelehammound presenteou suas pacientes com um Gift charmoso e super útil, uma poderosa ferramenta de posicionamento para sua clínica ou consultório. Isso é mais do que um presente, é uma forma elegante de marcar presença, gerar lembrança e reforçar o cuidado em cada detalhe.\n\n**Robes com Seu Logo:** Adicione um toque de elegância e exclusividade aos seus eventos corporativos, lançamentos ou como presente de agradecimento. Nossos robes em cetim de alta qualidade, bordados com o logo da sua empresa, são um item de luxo que proporciona conforto e uma lembrança duradoura da sua marca. Se você busca robes de qualidade e uma empresa comprometida com os prazos de entrega e excelência no atendimento, a Labomboniera é a sua escolha."
+    },
+    {
+      "type": "custom-content",
+      "markdown": "**Por que escolher a Labomboniera para seus Projetos Corporativos?**\n\n**Design Exclusivo:** Desenvolvemos projetos únicos que refletem a identidade da sua marca e agregam valor ao seu produto ou evento.\n\n**Qualidade Impecável:** Nossos itens são confeccionados com materiais de primeira linha e acabamento que garante a excelência.\n\n**Compromisso com Prazos:** Entendemos a importância da pontualidade em eventos e lançamentos, por isso, nosso compromisso com a entrega é levado muito a sério.\n\n**Atendimento Personalizado:** Nossa equipe está pronta para ouvir suas ideias, dar sugestões e, acima de tudo, acolher o que faz seu coração bater mais forte, garantindo que seu projeto seja inesquecível.\n\n***Vamos juntos dar vida ao seu próximo projeto corporativo inesquecível?***"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     }
