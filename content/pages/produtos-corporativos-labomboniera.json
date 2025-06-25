@@ -13,6 +13,10 @@
     },
     {
       "type": "custom-html",
+      "html": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/mZYO03MY1XU\" title=\"Corporativo Labomboniera\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+    },
+    {
+      "type": "custom-html",
       "html": "<center><div>\n    \n\n<style type=\"text/css\" rel=\"stylesheet\">\n  \n    #rd-box-kd0h0qwg {\n      \n          background-color: rgba(255,255,255,1);\n        \n      border-bottom-style: solid;\n      border-color: #cacaca;\n      border-left-style: solid;\n      border-radius: 6px;\n      border-right-style: none;\n      border-top-style: none;\n      border-width: 1px;\n      padding-top: 0px;\n      padding-right: 12px;\n      padding-bottom: 0px;\n      padding-left: 12px;\n      min-height: -1px;\n      margin-top: 15px;\n      margin-bottom: 10px;\n      max-width: 340px;\n      align-self: flex-start;\n      display: flex;\n      flex-direction: column;\n    }\n  \n\n  \n</style>\n</p></center> <br>\n"
     },
     {
