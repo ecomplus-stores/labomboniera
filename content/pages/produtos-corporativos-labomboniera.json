@@ -13,11 +13,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/mZYO03MY1XU\" title=\"Corporativo Labomboniera\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
-    },
-    {
-      "type": "custom-html",
-      "html": "<center><div>\n    \n\n<style type=\"text/css\" rel=\"stylesheet\">\n  \n    #rd-box-kd0h0qwg {\n      \n          background-color: rgba(255,255,255,1);\n        \n      border-bottom-style: solid;\n      border-color: #cacaca;\n      border-left-style: solid;\n      border-radius: 6px;\n      border-right-style: none;\n      border-top-style: none;\n      border-width: 1px;\n      padding-top: 0px;\n      padding-right: 12px;\n      padding-bottom: 0px;\n      padding-left: 12px;\n      min-height: -1px;\n      margin-top: 15px;\n      margin-bottom: 10px;\n      max-width: 340px;\n      align-self: flex-start;\n      display: flex;\n      flex-direction: column;\n    }\n  \n\n  \n</style>\n</p></center> <br>\n"
+      "html": "<center><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/mZYO03MY1XU\" title=\"Corporativo Labomboniera\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n  \n  \n  </center>"
     },
     {
       "type": "custom-content",
@@ -25,7 +21,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "**Por que escolher a Labomboniera para seus Projetos Corporativos?**\n\n**Design Exclusivo:** Desenvolvemos projetos únicos que refletem a identidade da sua marca e agregam valor ao seu produto ou evento.\n\n**Qualidade Impecável:** Nossos itens são confeccionados com materiais de primeira linha e acabamento que garante a excelência.\n\n**Compromisso com Prazos:** Entendemos a importância da pontualidade em eventos e lançamentos, por isso, nosso compromisso com a entrega é levado muito a sério.\n\n**Atendimento Personalizado:** Nossa equipe está pronta para ouvir suas ideias, dar sugestões e, acima de tudo, acolher o que faz seu coração bater mais forte, garantindo que seu projeto seja inesquecível.\n\n***Vamos juntos dar vida ao seu próximo projeto corporativo inesquecível?***"
+      "markdown": "**Por que escolher a Labomboniera para seus Projetos Corporativos?**\n\n**Design Exclusivo:** Desenvolvemos projetos únicos que refletem a identidade da sua marca e agregam valor ao seu produto ou evento.\n\n**Qualidade Impecável:** Nossos itens são confeccionados com materiais de primeira linha e acabamento que garante a excelência.\n\n**Compromisso com Prazos:** Entendemos a importância da pontualidade em eventos e lançamentos, por isso, nosso compromisso com a entrega é levado muito a sério.\n\n**Atendimento Personalizado:** Nossa equipe está pronta para ouvir suas ideias, dar sugestões e, acima de tudo, acolher o que faz seu coração bater mais forte, garantindo que seu projeto seja inesquecível.\n\n***Vamos juntos dar vida ao seu próximo projeto corporativo inesquecível?***\n\n<center><div class=\"banner\"><a href=\"https://wa.me/5517992303221\" target=\"_blank\"aria-label=\"Encomende por whatsapp \"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/faleconosco_whatsapp-1.png\" data-alt=\"Encomende por whatsapp\" data-loaded=\"true\"><source srcset=\"/img/uploads/faleconosco_whatsapp-1.png\" media=\"\"><img alt=\"Encomende por whatsapp\"></picture></a></div></center>\n\n</p></center> <br>"
     },
     {
       "type": "info-bar",
